@@ -25,6 +25,26 @@ Each student is represented using the `Student` class, which holds the student's
 
 ---
 
+## Technologies Used
+- Java
+- ArrayList
+- Scanner class
+- Basic OOPs (Object-Oriented Programming)
+
+---
+
+## How to Run
+
+1. Clone the repository:
+
+2. Open the project in any Java IDE (like VS Code, IntelliJ, Eclipse)
+
+3. Compile and run `StudentManagement.java` file.
+
+4. Follow the menu on the console.
+
+---
+
 ##  Sample Output
 
 ---- Student Management System ----
